@@ -817,13 +817,6 @@ terraform.rc
 ### ExpressionEngine template
 .DS_Store
 
-# Images
-images/avatars/
-images/captchas/
-images/smileys/
-images/member_photos/
-images/signature_attachments/
-images/pm_attachments/
 
 # For security do not publish the following files
 system/expressionengine/config/database.php
@@ -3576,27 +3569,7 @@ local.properties
 # Typically, this file would be tracked if it contains build/dependency configurations:
 #.project
 
-### Images template
-# JPEG
-*.jpg
-*.jpeg
-*.jpe
-*.jif
-*.jfif
-*.jfi
 
-# JPEG 2000
-*.jp2
-*.j2k
-*.jpf
-*.jpx
-*.jpm
-*.mj2
-
-# JPEG XR
-*.jxr
-*.hdp
-*.wdp
 
 # Graphics Interchange Format
 *.gif
