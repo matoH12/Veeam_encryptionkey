@@ -753,10 +753,7 @@ abstract.record*
 *.changes
 *.chg
 
-# system image
-*.image
-*.img7
-*.img
+
 
 # Pharo Smalltalk Debug log file
 PharoDebug.log
