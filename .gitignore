@@ -1830,42 +1830,6 @@ ipshared
 !/download/.htaccess
 !/download/index.php
 
-# Images
-/img/*
-!/img/.htaccess
-!/img/index.php
-!/img/404.gif
-!/img/bg_500.png
-!/img/bg_loader.png
-!/img/favicon.ico
-!/img/loader.gif
-!/img/loadingAnimation.gif
-!/img/logo.jpg
-!/img/logo.png
-!/img/logo_invoice.jpg
-!/img/logo_stores.png
-!/img/macFFBgHack.png
-!/img/prestashop-avatar.png
-!/img/prestashop@2x.png
-!/img/preston-login-wink@2x.png
-!/img/preston-login@2x.png
-!/img/questionmark.png
-!/img/genders/index.php
-!/img/admin/index.php
-!/img/c/index.php
-!/img/cms/index.php
-!/img/co/index.php
-!/img/jquery-ui
-!/img/l/index.php
-!/img/m/index.php
-!/img/os/index.php
-!/img/p/index.php
-!/img/s/index.php
-!/img/scenes
-!/img/st/index.php
-!/img/su/index.php
-!/img/t/index.php
-!/img/tmp/index.php
 
 # Upload
 /upload/*
@@ -5518,12 +5482,7 @@ vqmod/mods.cache
 /components/com_users/*
 /components/com_wrapper/*
 /components/index.html
-/images/banners/*
-/images/headers/*
-/images/sampledata/*
-/images/index.html
-/images/joomla*
-/images/powered_by.png
+
 /includes/*
 /installation/*
 /language/en-GB/en-GB.com_ajax.ini
