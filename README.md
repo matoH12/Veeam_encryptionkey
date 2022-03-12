@@ -34,7 +34,7 @@ copy veeam_backup_key.ps1  to "C:\ProgramData\checkmk\agent\plugins\"
 
 Example grph
 
-![alt text](https://github.com/matoH12/Veeam_encryptionkey/blob/main/imges/veeam_key_services.png?raw=true)
+![alt text](https://github.com/matoH12/Veeam_encryptionkey/blob/main/images/veeam_key_services.png?raw=true)
 
 
 ## License
